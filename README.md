@@ -112,7 +112,8 @@ admin-finder/
 │
 ├── admin_finder.py
 ├── README.md
-└── requirements.txt
+├── LICENSE
+├── requirements.txt
 ```
 
 ---
