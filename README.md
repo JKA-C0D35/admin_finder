@@ -141,6 +141,8 @@ This tool is created for:
 
 Do not use this tool against websites without permission.
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%3E+BOOTING+PROFILE...++%5BIDENTITY%5D+Hello+%F0%9F%91%8B+I'm+JKA-C0D35++%5BROLE%5D+Python+Developer+%E2%9A%99%EF%B8%8F+Backend+Developer+(In+Progress)+%F0%9F%92%BB+Cybersecurity+Developer+%7C+Ethical+Hacking+Enthusiast+%F0%9F%94%90++%5BMISSION%5D+Building+tools+%E2%80%A2+Breaking+limits+%E2%80%A2+Learning+systems+%F0%9F%9A%80++%5BSTATUS%5D+Always+learning.+Always+improving.+Always+building+%F0%9F%92%A1++%3E+SYSTEM+READY...)](https://git.io/typing-svg)
 ---
 
 ## 👨‍💻 Author
