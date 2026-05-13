@@ -1,1 +1,9 @@
+# ADMIN FINDER REQUIREMENTS
+# External dependency required:
+# requests (pip install requests)
+# Built-in modules:
+# threading
+# time
+# random
+
 requests
