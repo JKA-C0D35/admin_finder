@@ -65,8 +65,8 @@ And many more...
 Clone the repository:
 
 ```bash
-git clone https://github.com/JKA-C0D35/admin-finder.git
-cd admin-finder
+git clone https://github.com/JKA-C0D35/admin_finder.git
+cd admin_finder
 ```
 
 Install required modules:
@@ -147,3 +147,6 @@ Do not use this tool against websites without permission.
 **JKA-C0D35**
 
 Cybersecurity & Python Beginner 🚀
+- GitHub: https://github.com/JKA-C0D35
+- Project: auto_dork
+- Developer: JKA-C0D35
